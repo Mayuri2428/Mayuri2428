@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there, I'm Mayuri👋
+🚀 Passionate about exploring and participating in new things.
+💻 Currently diving deep into Java, with a solid foundation in C language.
+🎓 I’m a 2nd year Computer Science student at Government College of Engineering, Chhatrapati Sambhajinagar.
+🌱 Always learning, always growing — aspiring to be the best version of myself.
+💪 A confident individual with valuable leadership experience.
 
-<!--
-**Mayuri2428/Mayuri2428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
 
-Here are some ideas to get you started:
+Languages: Java ☕ | C 🔧 | (and always open to more!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interests: Problem-solving, learning new technologies, and building impactful projects.
+
+🌟 What Drives Me
+
+💡 Curiosity for new ideas and innovations
+
+📚 Constant learning and self-improvement
+
+🎯 Striving to push beyond limits
+
+🤝 Believing in teamwork, collaboration, networking, and leadership
+
+📬 Let’s Connect!
+
+LinkedIn : https://www.linkedin.com/in/mayuri-futane-756755332
+
+Email : futanemayuri0@gmail.com
+
+✨ "The journey to being the best version of myself starts with a single line of code."
