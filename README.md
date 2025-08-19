@@ -2,6 +2,7 @@
 🚀 Passionate about exploring and participating in new things.
 💻 Currently diving deep into Java, with a solid foundation in C language.
 🎓 I’m a 2nd year Computer Science student at Government College of Engineering, Chhatrapati Sambhajinagar.
+🏆 Awarded Best Science Student of the Year 2022.
 🌱 Always learning, always growing — aspiring to be the best version of myself.
 💪 A confident individual with valuable leadership experience.
 
